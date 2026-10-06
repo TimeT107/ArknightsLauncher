@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArknightsLauncher</string>
+    <string name="accessibility_description">用于下滑呼出通知中心和控制中心</string>
+</resources>

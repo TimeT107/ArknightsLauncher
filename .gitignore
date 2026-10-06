@@ -1,0 +1,60 @@
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+release/
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore（关键：不要把签名文件传上去）
+*.jks
+*.keystore
+keystore.properties
+
+# local.properties（含你的 SDK 路径）
+local.properties
+
+# 版权素材（用户自行准备）
+app/src/main/res/drawable/assistant.png
+app/src/main/res/drawable/bg_day.png
+app/src/main/res/drawable/bg_night.png
+app/src/main/res/drawable/power_logo.png
+app/src/main/res/drawable/terminal_deco.png
+app/src/main/res/drawable/team_castle.png
+app/src/main/res/drawable/operator_deco.png
+app/src/main/res/drawable/mission_deco.png
+app/src/main/res/drawable/base_deco.png
+app/src/main/res/drawable/shop_deco.png
+app/src/main/res/drawable/warehouse_deco.png
+app/src/main/res/drawable/friend_icon.png
+app/src/main/res/drawable/archive_icon.png
+app/src/main/res/drawable/topbar_left.png
+app/src/main/res/drawable/topbar_left_active.png
+app/src/main/res/drawable/home_node.png
+app/src/main/res/drawable/team_node.png
+app/src/main/res/drawable/operator_node.png
+app/src/main/res/drawable/archive_node.png
+app/src/main/res/drawable/terminal_node.png
+app/src/main/res/drawable/base_node.png
+app/src/main/res/drawable/recruit_nodes.png
+
+# 字体
+app/src/main/res/font/hkstw12.ttf
+app/src/main/res/font/breaking_news.ttf
+
+# 编译产物
+app/debug/
+app/release/
