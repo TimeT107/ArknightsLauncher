@@ -28,7 +28,7 @@
 ## 编译
 
 ```bash
-git clone https://github.com/你的用户名/ArknightsLauncher.git
+git clone https://github.com/TimeT107/ArknightsLauncher.git
 cd ArknightsLauncher
 ./gradlew assembleDebug
 ```
